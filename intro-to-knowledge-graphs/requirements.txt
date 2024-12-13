@@ -1,0 +1,5 @@
+llama-index
+llama-index-graph-stores-neo4j
+neo4j
+pyvis
+streamlit
